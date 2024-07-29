@@ -1,1 +1,3 @@
-# Game-2D-Flappy-Alane---Unity
+# Game-2D-Flappy-Plane-Unity
+
+Prototipo de jogo 2D, feito no Unity.
